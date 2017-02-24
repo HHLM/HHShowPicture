@@ -1,0 +1,7 @@
+
+
+
+
+target 'HHShowPictures' do
+pod "MJPhotoBrowser"
+end

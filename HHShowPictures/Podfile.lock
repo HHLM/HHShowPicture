@@ -1,0 +1,23 @@
+PODS:
+  - MJPhotoBrowser (1.0.2):
+    - SDWebImage
+    - SVProgressHUD
+    - YLGIFImage
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.0.3)
+  - YLGIFImage (0.11)
+
+DEPENDENCIES:
+  - MJPhotoBrowser
+
+SPEC CHECKSUMS:
+  MJPhotoBrowser: b98b04d0e3b6a999feb44df68adec413af446809
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  YLGIFImage: c0ae132fe80e5282b2762a97d14e23ba71a748ae
+
+PODFILE CHECKSUM: 5a000ec2ee7107d09662690072f4b63fcef96b23
+
+COCOAPODS: 1.1.1
